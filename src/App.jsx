@@ -11,7 +11,7 @@ function App() {
 
   return(
     <>
-    <h1> era kojja </h1>
+    <h1> Ni jati pukulo na modda </h1>
     <Images/>
     <h1>  Items Added :{count} </h1>
        <h1> E commerce project! </h1>
@@ -19,14 +19,14 @@ function App() {
         <Button  count={count} setCount={setCount}/>
         <Button1 count={count} setCount={setCount}/>
         <Reset  setCount={setCount}/>
-
-
-
-
     </>
   ) 
-
 }
+
+
+
+
+
 
 
 
