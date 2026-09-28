@@ -11,6 +11,7 @@ function App() {
 
   return(
     <>
+    <h1> era kojja </h1>
     <Images/>
     <h1>  Items Added :{count} </h1>
        <h1> E commerce project! </h1>
